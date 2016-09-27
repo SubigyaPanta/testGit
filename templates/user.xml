@@ -1,0 +1,11 @@
+<templateSet group="user">
+  <template name="feature_basic" value="Feature: $FEATURE$&#10;  $DESCRIPTION$&#10;  Scenario: $SCENARIO$&#10;&#10;    Given $GIVEN$" toReformat="true" toShortenFQNames="true">
+    <variable name="FEATURE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="DESCRIPTION" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="SCENARIO" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="GIVEN" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="CUCUMBER_FEATURE_FILE" value="true" />
+    </context>
+  </template>
+</templateSet>
