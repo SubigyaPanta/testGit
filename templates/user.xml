@@ -8,4 +8,13 @@
       <option name="CUCUMBER_FEATURE_FILE" value="true" />
     </context>
   </template>
+  <template name="factorygirl_class" value="factory :$FACTORYNAME$, class: $MODELNAME$ do&#10;    $ATTR1$ $VALUE$&#10;    $END$&#10;  end" toReformat="true" toShortenFQNames="true">
+    <variable name="FACTORYNAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="MODELNAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="ATTR1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VALUE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="RUBY" value="true" />
+    </context>
+  </template>
 </templateSet>
