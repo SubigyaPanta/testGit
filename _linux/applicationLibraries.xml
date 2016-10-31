@@ -150,6 +150,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/airbrussh-1.1.1/lib" />
       </SOURCES>
     </library>
+    <library name="ajax-datatables-rails (v0.4.0@676954, rbenv: 2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/bundler/gems/ajax-datatables-rails-6769547aa032/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/bundler/gems/ajax-datatables-rails-6769547aa032/lib" />
+      </SOURCES>
+    </library>
     <library name="arel (v7.1.1, rbenv: 2.3.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/arel-7.1.1/lib" />
@@ -860,6 +868,18 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/jquery-tokeninput-rails-1.6.0/vendor" />
       </SOURCES>
     </library>
+    <library name="js-routes (v1.3.0, rbenv: 2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/js-routes-1.3.0/app" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/js-routes-1.3.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/js-routes-1.3.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/js-routes-1.3.0/app" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/js-routes-1.3.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/js-routes-1.3.0/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="json (v2.0.2, rbenv: 2.3.1) [gem]">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/json/2.0.2" />
@@ -1272,6 +1292,18 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/rails-html-sanitizer-1.0.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="rails_script (v2.0.3, rbenv: 2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/rails_script-2.0.3/app" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/rails_script-2.0.3/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/rails_script-2.0.3/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/rails_script-2.0.3/app" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/rails_script-2.0.3/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/rails_script-2.0.3/vendor" />
       </SOURCES>
     </library>
     <library name="railties (v5.0.0, rbenv: 2.3.1) [gem]">
@@ -1748,6 +1780,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/web-console-3.3.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="web-console (v3.4.0, rbenv: 2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/web-console-3.4.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/web-console-3.4.0/lib" />
       </SOURCES>
     </library>
     <library name="websocket-driver (v0.6.4, rbenv: 2.3.1) [gem]">
